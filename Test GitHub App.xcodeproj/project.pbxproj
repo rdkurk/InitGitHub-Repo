@@ -11,6 +11,7 @@
 		37EC5AC9291C38AD00D63A92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EC5AC8291C38AD00D63A92 /* ContentView.swift */; };
 		37EC5ACB291C38AF00D63A92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37EC5ACA291C38AF00D63A92 /* Assets.xcassets */; };
 		37EC5ACE291C38AF00D63A92 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37EC5ACD291C38AF00D63A92 /* Preview Assets.xcassets */; };
+		37EC5AD5291C56AF00D63A92 /* TestModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EC5AD4291C56AF00D63A92 /* TestModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		37EC5AC8291C38AD00D63A92 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		37EC5ACA291C38AF00D63A92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37EC5ACD291C38AF00D63A92 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		37EC5AD4291C56AF00D63A92 /* TestModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				37EC5AC8291C38AD00D63A92 /* ContentView.swift */,
 				37EC5ACA291C38AF00D63A92 /* Assets.xcassets */,
 				37EC5ACC291C38AF00D63A92 /* Preview Content */,
+				37EC5AD4291C56AF00D63A92 /* TestModel.swift */,
 			);
 			path = "Test GitHub App";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37EC5AD5291C56AF00D63A92 /* TestModel.swift in Sources */,
 				37EC5AC9291C38AD00D63A92 /* ContentView.swift in Sources */,
 				37EC5AC7291C38AD00D63A92 /* Test_GitHub_AppApp.swift in Sources */,
 			);
