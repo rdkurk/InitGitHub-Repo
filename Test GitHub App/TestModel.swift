@@ -9,5 +9,5 @@ import Foundation
 
 struct TestStruct {
     
-    var MyTestString = ""
+    var MyTestString = "Add some new stuff"
 }
